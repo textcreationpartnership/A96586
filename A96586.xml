@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Victorious newes from Waterford in Ireland: being the copy of a letter, sent from Dublin the 18. of April by Mr. Andrew Williams, merchant, to Mr. Adam Atkins Citisen of London. Relating a happy and renowned victory, obtained by Sir Christopher Loftus, against the rebels in Waterford. Likewise the manner how he took the town, and put the rebels to death. Also a relation how that the Earl of Cork took the Earl of Osmond prisoner, where he now remains in Cork Castle, weighting the lord justices pleasure.</title>
+            <author>Williams, Andrew, Merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96586</idno>
+            <idno type="STC">Wing W2642</idno>
+            <idno type="STC">Thomason E144_1</idno>
+            <idno type="STC">ESTC R11403</idno>
+            <idno type="EEBO-CITATION">99859020</idno>
+            <idno type="PROQUEST">99859020</idno>
+            <idno type="VID">156615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156615)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Victorious newes from Waterford in Ireland: being the copy of a letter, sent from Dublin the 18. of April by Mr. Andrew Williams, merchant, to Mr. Adam Atkins Citisen of London. Relating a happy and renowned victory, obtained by Sir Christopher Loftus, against the rebels in Waterford. Likewise the manner how he took the town, and put the rebels to death. Also a relation how that the Earl of Cork took the Earl of Osmond prisoner, where he now remains in Cork Castle, weighting the lord justices pleasure.</title>
+                  <author>Williams, Andrew, Merchant.</author>
+                  <author>J. C. Encouragement for all true Britains.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wels,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Aprill, 21. 1642.</note>
+                  <note>To which is added a song by J. C.: "An encouragement for all true Britains," p. 8.  Cf. BM.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork, Richard Boyle, --  Earl of, 1566-1643.</term>
+               <term>Loftus, Christopher, --  Sir.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156615:1" rendition="simple:additions"/>
+            <pb facs="tcp:156615:1" rendition="simple:additions"/>
+            <p>Aprill, 21. 1642.</p>
+            <p>VICTORIOUS NEWES FROM WATERFORD IN <hi>IRELAND:</hi> Being the Copy of a Letter, ſent from <hi>Dublin</hi> the 18. of <hi>April</hi> by Mr, <hi>Andrew Williams,</hi> Merchant, to Mr. <hi>Adam Atkins</hi> Citiſen of <hi>London.</hi>
+            </p>
+            <p>Relating a happy and Renowned Victory, obtained by Sir <hi>Chriſtopher Loftus,</hi> againſt the Rebels in <hi>Waterford.</hi>
+            </p>
+            <p>Likewiſe the manner how he took the Town, and put the Rebels to Death.</p>
+            <p>Alſo a Relation, how that the Earl of Cork took the Earl of <hi>Oſmond</hi> Priſoner, where he now remains in <hi>Cork</hi> Caſtle, weighting the Lord Juſti<g ref="char:EOLhyphen"/>ces pleaſure.</p>
+            <p>Printed for <hi>Iohn Wels,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156615:2"/>
+            <pb facs="tcp:156615:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>the initials 'C R' (Carolus Rex) surmounted a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>Victorious Newes from Ireland.</head>
+            <opener>
+               <salute>SIR<g ref="char:punc">▪</g>
+               </salute>
+            </opener>
+            <p>HAving ſo fit an opportunity to preſent my ſervice to you, I have thought good by this Bearer, to give you a reall Relation of all the emi<g ref="char:EOLhyphen"/>nent <hi>Occurrences,</hi> &amp; proceedings that have paſſed ſince the death of Sir <hi>Simon Har<g ref="char:EOLhyphen"/>court,</hi> both neer <hi>Dublin</hi> and <hi>Waterford,</hi> as alſo, of what proceedings and victo<g ref="char:EOLhyphen"/>rious fortunes have attended my Lord of <hi>Cork,</hi> to the great dammage and diſheart<g ref="char:EOLhyphen"/>ning of the rebellious Rout, as touching <hi>Dublin,</hi> that (God be thanked firſt, next the King and Honourable Parliament) is pretty well fortified, having received lately forces which were ſent from <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> with Ammunition of all ſorts; in<g ref="char:EOLhyphen"/>ſomuch, that our party is pretty ſtrong. It pleaſed God to bleſſe Sir <hi>Chriſtopher
+<pb facs="tcp:156615:3"/> Loftus</hi> (a noble Gentleman lately come out of the <hi>Low-countries,</hi> and now Com<g ref="char:EOLhyphen"/>mander of a Regiment of <hi>Volnnteers.</hi>) So that on the 15 day of this month, he gave them a mighty overthrow: it hapned that a number of the Rebels that were at <hi>Waterford,</hi> left only as a Garriſon to guard the town, were gone out under the Com<g ref="char:EOLhyphen"/>mand of <hi>Mark-maroth,</hi> with intent to pil<g ref="char:EOLhyphen"/>lage ſome neer adjoyning Villages, and to fetch in Cattel, leaving not above 200. ſouldiers and two Corporals to guar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the town in their abſence; which being done, and they buſie at pillaging &amp; bur<g ref="char:EOLhyphen"/>ning up the neighbor Villages, the report came to Sir <hi>Chriſtopher,</hi> who then was marching with his own Regiment, and 500 horſe with fire-locks, and 3 Towns of Scotch Dragoners, which he had ſent out to ſcour the Countries, who returned with this News, that the Rebels were a<g ref="char:EOLhyphen"/>broad, and that as they conceived by their Number, <hi>Waterford</hi> muſt of neceſſi<g ref="char:EOLhyphen"/>ty be but weakly guarded.</p>
+            <p>Sir <hi>Chriſtopher</hi> hearing this News, gave
+<pb facs="tcp:156615:3"/> Command, that his Drums ſhould be un<g ref="char:EOLhyphen"/>braced and that they ſhould march with as much ſilence, as ſpeed toward <hi>Water<g ref="char:EOLhyphen"/>ford,</hi> which was forth with accompliſhed, which plot took ſo good effect, that they paſſed the Centries which were without, they ſuppoſing they had bin their own men, which were abroad a pillaging.</p>
+            <p>They came even to the towne without any di<g ref="char:EOLhyphen"/>ſturbance or ſuſpect, till drawing nigh the Court of guard, they were diſcovered, who immediatly diſcharged vpon them, and retired to the Towne, giving an Alarum, but our, forces, eſpecially our Horſes followed them ſo cloſe, and fired ſo faſt vpon them, that of 50. perſons their went but 8 to tell the news at <hi>Waterford.</hi> The Alarum being given the towne took Armes but in ſuch rude combuſti<g ref="char:EOLhyphen"/>on that twas to little purpoſe, for before that they could ioyn themſelues into a body we had poſſeſ<g ref="char:EOLhyphen"/>ſion of the court of guard, and had diſmounted all their Ordnance, which being done our Drummers beate a parley, which they anſwered in our owne language, then Sr. <hi>Chriſtopher</hi> ſent out a corporall to informe them that if they that were governours of the town, would yeeld themſelues to the Kings mercy, they ſhould have all fayre quarter, but if not, He vowed to vſe the vttermoſt of his power, to burne the towne vp: and to cut them off. They yeelded to the King, declaring to Sr. <hi>Chriſtopher</hi> that twas force by the Rebels, not diſloyalty made
+<pb facs="tcp:156615:4"/> them revolt, ſince they were foret to make policy prevent a greater miſchiefe, Sr. <hi>Chriſtopher</hi> having taken good order for the ſecurity of his new pur<g ref="char:EOLhyphen"/>chaſe, he with the remainder of his men march<g ref="char:EOLhyphen"/>ched out again, to meet the plundering party, which by good fortune, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e meet with all juſt at the entry of the towne VVhoſe une<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pected ſight did ſo a<g ref="char:EOLhyphen"/>maze the Rebels that they grew deſparate, charg<g ref="char:EOLhyphen"/>ing vs ſo fiercly that had not God fought for vs, we had vndoubtedly bin overthrowne.</p>
+            <p>Three times they charged vs fiercly, which we withſtood, uſing our uttmoſt power, to mke good the paſſage. Their anger being allmoſt ſpent, then we began to play our parts and with our horſe to circumvent them, which was immediatly performed, and they left no poſſibillity of eſcape, they were almoſt all cut off to the vallew of 1500 only ſome three<g ref="char:EOLhyphen"/>ſcore which were taken priſoners elea<g ref="char:EOLhyphen"/>ven of which Officers though but Inferi<g ref="char:EOLhyphen"/>or, as Corporals, Seargeants, and the like thus was this great victory obtained by the valour of this noble and Heroicke gentleman and the town of <hi>Water-foord,</hi> brought into ſubiection, to the King, Hee lying with his men, in the town in man<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:156615:4"/> of a Garriſon. leaſt that (as before) they would againe revolt.</p>
+            <p>Likewiſe, the Earl of Cork in his parts hath behaved himſelf very valiantly, and in a Battell fought on the 13. day of this month, took the Earl of <hi>Oſmond</hi> priſoner who now remains in Cork Caſtle, til they have Order from the Lord Juſtices what to do with him; much more I could relate, but that I will refer it to my next opportunity, which with Gods aſſiſtance I will waite, giving you by it a true re<g ref="char:EOLhyphen"/>lation of our further proceedings till which time I reſt. your friend</p>
+            <closer>
+               <signed>Andrew Williams.</signed>
+               <dateline>From <hi>Dublin</hi> 
+                  <date>this 17. <hi>April.</hi> 1642</date>.</dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
